@@ -1,5 +1,4 @@
-# Alignment Research Engine Accelerator (ARENA) 3.0 Course
-# with a focus on Mechanistic Interpretability
+# Alignment Research Engine Accelerator (ARENA) 3.0 Course with a focus on Mechanistic Interpretability
 
 ## Overview
 
