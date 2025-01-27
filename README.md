@@ -7,9 +7,8 @@ This repository contains my work and notes for **Chapters 0 and 1** of the ARENA
 ## Objectives
 
 1. **Chapter 0: Fundamentals**
-   - Gain proficiency in the tools and frameworks used in the course.
-   - Strengthen foundational knowledge of neural networks and optimization techniques.
-   - Set up a robust environment for experimenting with models.
+   - Revisit essential Deep Learning concepts: linear algebra, backpropagation, optimization, PyTorch fundamentals.
+   - Master advanced tensor manipulation with **Einops** and **Einsum**. 
 
 2. **Chapter 1: Transformers & Mechanistic Interpretability**
    - Understand the architecture of transformers, including attention mechanisms and embeddings.
@@ -23,7 +22,6 @@ ARENA3.0-course/
 ├── Chapter0/
 │   ├── notes/                # Summaries and key takeaways from Chapter 0.
 │   ├── exercises/            # Completed exercises and code snippets.
-│   ├── environment_setup.md  # Guide to setting up tools and libraries.
 ├── Chapter1/
 │   ├── notes/                # Summaries and key takeaways from Chapter 1.
 │   ├── experiments/          # Code and results for interpretability experiments.
