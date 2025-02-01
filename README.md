@@ -20,28 +20,15 @@ This repository contains my work and notes for **Chapters 0 and 1** of the ARENA
 ```
 ARENA3.0-course/
 ├── Chapter0/
-│   ├── notes/                # Summaries and key takeaways from Chapter 0.
+|   ├── README.md             # Summary of key topics of Chapter 0.
 │   ├── exercises/            # Completed exercises and code snippets.
 ├── Chapter1/
-│   ├── notes/                # Summaries and key takeaways from Chapter 1.
+│   ├── README.md             # Summary of key topics of Chapter 1.
 │   ├── experiments/          # Code and results for interpretability experiments.
 │   ├── projects/             # Mini-projects exploring transformers and circuits.
-├── resources/                # Additional resources and references.
 ├── README.md                 # Overview of the repository (this file).
 └── LICENSE                   # License for the repository (if applicable).
 ```
-
-## Highlights
-
-### Chapter 0: Fundamentals
-- **Key Topics:**
-
-- **Exercises:**
-
-### Chapter 1: Transformers & Mechanistic Interpretability
-- **Key Topics:**
-
-- **Projects:**
 
 ## Tools and Libraries
 - **Python 3.9+**
